@@ -1,20 +1,42 @@
 ---
 layout:     post
-title:      CWW简介
-subtitle:   cww.ink为我们2023年的网站地址
-date:       2022-12-12
-author:     chris ong
-header-img: img/the-first.png
-catalog: false
+title:      三叶语首个版本发布
+subtitle:   v0.6版
+date:       2019-01-16
+author:     Henri Jambo
+header-img: img/post-bg-cook.jpg
+catalog: true
 tags:
-    - 我们的故事
+    - 新闻故事
 ---
 
-最喜欢的音乐家：[坂本龙一](https://music.163.com/#/outchain/2/437715323/)。
-最喜欢的音乐家：[坂本龙一](https://music.163.com/#/outchain/2/437715323/)。
-最喜欢的音乐家：[坂本龙一](https://music.163.com/#/outchain/2/437715323/)。
-最喜欢的音乐家：[坂本龙一](https://music.163.com/#/outchain/2/437715323/)。
-最喜欢的音乐家：[坂本龙一](https://music.163.com/#/outchain/2/437715323/)。
-最喜欢的音乐家：[坂本龙一](https://music.163.com/#/outchain/2/437715323/)。
+![]({{site.baseurl}}/img/logo.png)
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=437715323&auto=1&height=66"></iframe>
+#### 发布信息
+
+2019年1月16日。V0.6版。
+
+此版本为三叶语第一次公开。
+
+发布媒体：
+
+* 百度贴吧：[三叶草国际语](https://tieba.baidu.com/p/6009002082)
+* 知乎专栏：[三叶草国际语概述（V0.6）](https://zhuanlan.zhihu.com/p/46039432)
+
+#### 三叶语特点
+
+融合中西语言的人造国际语。
+
+* 单词中含有中文韵母成分（词韵），便于中国人学习和记忆。
+
+* 语音倾向于英文和中文的结合，易于发声。
+
+* 语法简洁，核心部分即谓词变化为固定次序，“将不已在被动”六个字即可概况。
+
+#### 完成进度
+
+* 语音基本完成，完成度99%。
+
+* 语法主体完成，完成度80%。
+
+* 词汇中语辅词基本完成，其它基本词部分完成，完成度<50%。
